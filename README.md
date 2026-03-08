@@ -437,4 +437,6 @@ println!("Counter: {}", *counter.lock().unwrap()); // 10
 - [ ] Build a Solana program
 
 ---
-*Living document — updated as I learn. Feel free to fork!*
+*Living document updated as I learn. Feel free to fork!*
+## ✅ Status
+  Learning in progress updated March 2026
